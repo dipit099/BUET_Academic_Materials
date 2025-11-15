@@ -4,7 +4,7 @@ Welcome to my comprehensive collection of academic works from Bangladesh Univers
 
 This repository serves as a central hub for all my educational projects, assignments, and coursework organized by academic level and term.
 
-## 📚 Course Structure
+# Course Structure
 
 ### Level 1 (1st Year)
 
@@ -78,7 +78,7 @@ This repository serves as a central hub for all my educational projects, assignm
   - PostgreSQL database with complex queries
   - Deployed on Firebase (client), Render (server), and Supabase (database)
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 Throughout my academic journey, I've worked with various programming languages and technologies including:
 
@@ -103,7 +103,7 @@ Throughout my academic journey, I've worked with various programming languages a
 - **Deployment**: Firebase, Render, Supabase, Netlify
 - **Operating Systems**: Linux, Windows
 
-## 📊 Academic Progress
+## Academic Progress
 
 - ✅ Level 1 Completed
 - ✅ Level 2 Completed  
